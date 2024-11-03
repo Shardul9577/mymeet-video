@@ -17,7 +17,7 @@ function Call() {
         sharedLinks:[
           {
             name:"Copy Link",
-            url:`http://localhost:3000/room/${id}`
+            url:`https://mymeet-video.vercel.app/room/${id}`
           }
         ],
         scenario: {
